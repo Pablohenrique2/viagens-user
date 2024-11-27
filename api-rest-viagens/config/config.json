@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "api_user",
+    "password": "api_password",
+    "database": "sistemaviagens",
+    "host": "db",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "api_user",
+    "password": "api_password",
+    "database": "sistemaviagens",
+    "host": "db",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "api_user",
+    "password": "api_password",
+    "database": "sistemaviagens",
+    "host": "db",
+    "dialect": "mysql"
+  }
+}

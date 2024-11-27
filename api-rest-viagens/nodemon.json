@@ -1,0 +1,4 @@
+{
+  "watch": ["src", "app.js", "other-folder"],
+  "ext": "ts,js,json"
+}
